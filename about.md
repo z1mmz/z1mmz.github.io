@@ -2,6 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-I'm a Computer Scientist from Melbourne Australia, Welcome to my page/blog/github page 
+Hi there,
+
+My name is Wolf, I am a computer scientist from Melbourne. 
